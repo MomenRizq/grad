@@ -9635,5 +9635,28 @@
     "total": 286,
     "percent": 0.52,
     "appreciation": "مقبول"
+  },
+  {
+    "n": 420,
+    "name": "روضه حسن أحمد التوماني",
+    "id": 30806228801142,
+    "code": "D2024079757",
+    "birth": "2008/06/22",
+    "address": "دسوق",
+    "term": 3,
+    "Hospital": 65,
+    "practical": 68,
+    "theory": 29.5,
+    "E": 20.5,
+    "surgical": 36,
+    "anatomy": 25,
+    "first_aids": 18,
+    "infection_control": 23,
+    "women": 45.5,
+    "pharma": 25,
+    "medical": 25,
+    "total": 380.5,
+    "percent": 0.6918,
+    "appreciation": "جيد"
   }
 ]
