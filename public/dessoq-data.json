@@ -6539,7 +6539,7 @@
     "birth": "2001/01/01",
     "address": "الاسكندريه",
     "term": 3,
-    "Hospital": 60,
+    "Hospital": 70,
     "practical": 84,
     "theory": 46.5,
     "E": 30,
@@ -6550,8 +6550,8 @@
     "women": 50,
     "pharma": 50,
     "medical": 48,
-    "total": 517.5,
-    "percent": 0.9409,
+    "total": 527.5,
+    "percent": 0.9591,
     "appreciation": "ممتاز"
   },
   {
