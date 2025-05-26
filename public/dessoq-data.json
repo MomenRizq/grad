@@ -9658,5 +9658,28 @@
     "total": 380.5,
     "percent": 0.6918,
     "appreciation": "جيد"
+  },
+  {
+    "n": 421,
+    "name": "محمد سمير محمد أحمد وافي",
+    "id": 31001221501297,
+    "code": "D2024079785",
+    "birth": "2010/22/01",
+    "address": "دسوق",
+    "term": 3,
+    "Hospital": 35,
+    "practical": 67,
+    "theory": 25,
+    "E":15,
+    "surgical": 25,
+    "anatomy": 25,
+    "first_aids": 15,
+    "infection_control": 17,
+    "women": 25,
+    "pharma": 25,
+    "medical": 25,
+    "total": 299,
+    "percent": 0.5436,
+    "appreciation": "مقبول"
   }
 ]
